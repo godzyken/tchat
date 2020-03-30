@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">tchat</string>
+    <string name="open_react_native">Open React Native!</string>
+    <string name="open_flutter">Open Flutter!</string>
+</resources>
